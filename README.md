@@ -12,4 +12,4 @@ That's it, that is literally it. I just wanted to make that joke, that's why I w
 To be fair the theme itself looks really nice as well.
 
 
-![preview-of-theme](image.png)
+![preview-of-theme](./image.png)

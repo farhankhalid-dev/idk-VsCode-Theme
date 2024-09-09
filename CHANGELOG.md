@@ -20,3 +20,5 @@
 
 (I know I kinda "jumped up" the versions, meh... Also, I don't think I'm gonna change anything else in this theme now)
 - 1.0.0 Put a screenshot in the README and a new icon so it's easily searchable.
+
+- 1.0.1 I had to fix the image not showing up in the README...
