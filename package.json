@@ -2,7 +2,7 @@
   "name": "i-dont-know",
   "displayName": "I don't know",
   "description": "A dark VsCode theme with green accents!",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "publisher": "Pixl02",
   "engines": {
     "vscode": "^1.88.0"
