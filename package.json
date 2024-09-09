@@ -1,0 +1,36 @@
+{
+  "name": "i-dont-know",
+  "displayName": "I don't know",
+  "description": "A dark VsCode theme with green accents!",
+  "version": "0.0.7",
+  "publisher": "Pixl02",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farhankhalid-dev/idk"
+  },
+  "keywords": [
+    "dark",
+    "vscode",
+    "theme",
+    "color",
+    "idk",
+    "high contrast",
+    "green"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "I don't know",
+        "uiTheme": "vs-dark",
+        "path": "./themes/i-dont-know-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
